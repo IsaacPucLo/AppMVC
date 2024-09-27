@@ -1,5 +1,5 @@
-/bin
-/obj
-/Properties
-/.vs
-/.git
+bin/
+obj/
+Properties/
+.vs/
+.git/
